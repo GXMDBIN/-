@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="个人所得税。cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="鸡兔同笼.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="季节判断.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="逆序数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断第几天.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断数字类型。cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断字符类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求个数位之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求两个数的和跟差.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求满足abc+cba的值cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求三数之和跟平均值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="我爱中国.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="游戏过七.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="整数判断奇偶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求素数个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求给定集合里奇数的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断完数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="定义sum函数求a+aa的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="游戏过7plus.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="M的整数倍.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="星号图.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算年龄.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="反弹.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求a+aa+aaa.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="双素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="组合排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="反弹2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求两点间距离（重载函数）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归函数求小球反弹.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求100以内被3整除的数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="摄氏度转华氏度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
